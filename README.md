@@ -1,5 +1,7 @@
-## Hi there 👋
-
+ 
+##<h1 align="center">Hi there, I'm <a href="https://vk.com/matthew_kryze" target="_blank"> Matthew </a>
+<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
+<h3 align="center"> TSU student of the Physics faculty, intresting in Biology and programming </h3>
 <!--
 **MatthewVologzhin/MatthewVologzhin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
